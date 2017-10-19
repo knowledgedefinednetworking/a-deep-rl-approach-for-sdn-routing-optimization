@@ -1,0 +1,14 @@
+.DS_Store
+*.pyc
+*.pyo
+__pycache__
+*.h5
+*.json
+runs/
+check*
+omnet/*/out/
+omnet/*/networkRL
+omnet/*/messages/*.cc
+omnet/*/messages/*.h
+omnet/*/NetworkAll*
+traffic/

@@ -4,6 +4,12 @@
 
 In this paper we design and evaluate a Deep-Reinforcement Learning agent that optimizes routing. Our agent adapts automatically to current traffic conditions and proposes tailored configurations that attempt to minimize the network delay. Experiments show very promising performance. Moreover, this approach provides important operational advantages with respect to traditional optimization algorithms.
 
+---
+
+Code and datasets [here](https://github.com/knowledgedefinednetworking/a-deep-rl-approach-for-sdn-routing-optimization/releases).
+
+---
+
 # Keras and Deep Deterministic Policy Gradient to control an OMNeT++ network simulator
 
 ## How to train?

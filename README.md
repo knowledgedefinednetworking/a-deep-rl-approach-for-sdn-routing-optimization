@@ -12,6 +12,15 @@ Code and datasets [here](https://github.com/knowledgedefinednetworking/a-deep-rl
 
 # Keras and Deep Deterministic Policy Gradient to control an OMNeT++ network simulator
 
+## How to build?
+
+1. Use a modern Linux or macOS system.
+1. Install OMNeT++ version 4.6 in your system (please see instructions at http://omnetpp.org).
+1. Run 'make' from inside 'omnet/router'. This will generate `networkRL` which is needed by the python script.
+1. Install Python 3.6 in your system.
+1. Install the packages listed in `requirements.txt` (please use *exact* versions). Virtualenv could be of help (https://pypi.python.org/pypi/virtualenv).
+
+
 ## How to train?
 
 ### Single run with fixed parameters

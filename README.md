@@ -30,13 +30,6 @@ Reads configuration from ```DDPG.json```
 python3 ddpg.py
 ```
 
-### Experiment with variation in parameters
-Reads basic configuration from ```EXPERIMENT.json``` and changes some parameters according to what is defined in function experiment(), ```cluster``` is needed to choose between ```local``` and ```arvei``` execution
-
-```
-python3 experiment.py cluster EXPERIMENT.json
-```
-
 ## How to play?
 
 ### Single run with fixed parameters
